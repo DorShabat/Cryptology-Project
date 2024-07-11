@@ -1,19 +1,27 @@
 # Tasks and Things
 ## 1. Server Identification using Schnorr Signature
 assignee: none
+
 status: not started
+
 colab link: none
 ## 2. Encryption-Decryption with SM4
 assignee: none
+
 status: not started
+
 colab link: none
 ## 3. ECDH Key Generation
 assignee: none
+
 status: not started
+
 colab link: none
 ## 4. Creating ppt
 assignee: none
+
 status: not started
+
 colab link: none
 ## 5. understanding the project
 need to understand the project and break it down to each other.
